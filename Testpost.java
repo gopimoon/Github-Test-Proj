@@ -24,7 +24,7 @@ public class Testpost
 				ps.executeUpdate();
 				System.out.println("success");
 				System.out.println("success");
-				
+				System.out.println("testing for debug");
 			}		
 		}
 		catch(SQLException e)
